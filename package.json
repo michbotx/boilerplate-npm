@@ -1,6 +1,6 @@
 {
-	"author": "Michelle Pham",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Michelle Pham",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
